@@ -10,6 +10,7 @@
  4. Fuentes:
     https://play.google.com/store/apps/details?id=cc.arduino.sciencejournal&hl=es_CO&gl=US"
 ```
+Profe este tema lo trabaje sin librerias (fue muy complicado, me costo mucho) ah espero que sea de su agrad y utlice la app que antes era de google y ahora es de arduino
 
 # ¿Que esta pasando?
 
